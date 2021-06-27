@@ -1,0 +1,19 @@
+h1{
+    color:darkred;
+}
+h2{
+    color:#006308;
+}
+h3{
+    color: #3cb604;
+}
+li {
+    font-weight: bold;
+}
+body {
+    list-style-position: inside;
+}
+
+footer,header{
+    font-weight: bold;
+}
